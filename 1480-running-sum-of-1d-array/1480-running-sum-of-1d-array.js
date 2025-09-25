@@ -6,7 +6,8 @@ var runningSum = function(nums) {
     let temp=0
     let arr=[]
     for(num of nums){ 
-        arr.push(temp+=num)
+        temp+=num
+        arr.push(temp)
     }
     return arr
 };
