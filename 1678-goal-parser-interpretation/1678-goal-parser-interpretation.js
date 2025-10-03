@@ -9,7 +9,7 @@ var interpret = function(command) {
         if(command[i]=="G"){
             str+="G"
             i++
-        }else if(command[i]=="(" && command[i+1]=="a"){
+        }else if(command[i+1]=="a"){
             str+="al"
             i+=4
         }else{
