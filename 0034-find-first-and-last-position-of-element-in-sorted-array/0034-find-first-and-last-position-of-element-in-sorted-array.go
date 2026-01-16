@@ -1,7 +1,6 @@
 func searchRange(nums []int, target int) []int {
     arr := []int{}
     for i, v := range nums {
-        fmt.Println(i)
         if target == v {
             arr = append(arr, i)
         }
@@ -14,6 +13,5 @@ func searchRange(nums []int, target int) []int {
     a := arr[len(arr)-1]
     arr = arr[:1]
     arr = append(arr, a)
-    fmt.Println(arr)
     return arr
 }
