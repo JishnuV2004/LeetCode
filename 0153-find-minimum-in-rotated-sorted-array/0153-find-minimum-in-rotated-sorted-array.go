@@ -8,7 +8,7 @@ func findMin(nums []int) int {
             }
             
         }
-        if swapped != true {
+        if !swapped {
                 break
             }
     }
