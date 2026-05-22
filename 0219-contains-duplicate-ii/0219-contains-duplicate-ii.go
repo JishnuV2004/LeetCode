@@ -4,6 +4,7 @@ func containsNearbyDuplicate(nums []int, k int) bool {
         _, ok := freq[nums[i]]
         if !ok {
             freq[nums[i]] = i
+            continue
         } else if i - freq[nums[i]] <= k {
             return true
         } else {
