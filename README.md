@@ -20,11 +20,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JishnuV2004/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/JishnuV2004/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/JishnuV2004/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/JishnuV2004/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -34,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JishnuV2004/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/JishnuV2004/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
