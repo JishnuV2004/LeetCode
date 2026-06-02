@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JishnuV2004/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JishnuV2004/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JishnuV2004/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/JishnuV2004/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JishnuV2004/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Binary Search
@@ -55,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [3894-traffic-signal-color](https://github.com/JishnuV2004/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JishnuV2004/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
