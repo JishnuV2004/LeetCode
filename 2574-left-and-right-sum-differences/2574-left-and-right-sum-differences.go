@@ -1,7 +1,6 @@
 func leftRightDifference(nums []int) []int {
     leftSum := make([]int, len(nums))
     rightSum := make([]int, len(nums))
-    output := make([]int, len(nums))
 
     for i := range nums {
         if i != 0{
@@ -10,7 +9,7 @@ func leftRightDifference(nums []int) []int {
         }    
     }
     for i := range nums {
-        output[i] = int(math.Abs(float64(leftSum[i] - rightSum[i])))
+        nums[i] = int(math.Abs(float64(leftSum[i] - rightSum[i])))
     }
-    return output
+    return nums
 }
