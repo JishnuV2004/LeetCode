@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [3894-traffic-signal-color](https://github.com/JishnuV2004/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/JishnuV2004/LeetCode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
