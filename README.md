@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JishnuV2004/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/JishnuV2004/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JishnuV2004/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/JishnuV2004/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/JishnuV2004/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JishnuV2004/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3894-traffic-signal-color](https://github.com/JishnuV2004/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/JishnuV2004/LeetCode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
@@ -82,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/JishnuV2004/LeetCode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JishnuV2004/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 <!---LeetCode Topics End-->
