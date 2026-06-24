@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JishnuV2004/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/JishnuV2004/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/JishnuV2004/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3945-digit-frequency-score](https://github.com/JishnuV2004/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/JishnuV2004/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3945-digit-frequency-score](https://github.com/JishnuV2004/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
