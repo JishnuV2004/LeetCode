@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JishnuV2004/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/JishnuV2004/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/JishnuV2004/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/JishnuV2004/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/JishnuV2004/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JishnuV2004/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JishnuV2004/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/JishnuV2004/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/JishnuV2004/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/JishnuV2004/LeetCode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -97,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/JishnuV2004/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/JishnuV2004/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
