@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/JishnuV2004/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/JishnuV2004/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/JishnuV2004/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JishnuV2004/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JishnuV2004/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/JishnuV2004/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/JishnuV2004/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JishnuV2004/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JishnuV2004/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/JishnuV2004/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JishnuV2004/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JishnuV2004/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/JishnuV2004/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/JishnuV2004/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
