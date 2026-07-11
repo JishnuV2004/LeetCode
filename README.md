@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/JishnuV2004/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JishnuV2004/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JishnuV2004/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/JishnuV2004/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JishnuV2004/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/JishnuV2004/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/JishnuV2004/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3895-count-digit-appearances](https://github.com/JishnuV2004/LeetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/JishnuV2004/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/JishnuV2004/LeetCode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/JishnuV2004/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/JishnuV2004/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3945-digit-frequency-score](https://github.com/JishnuV2004/LeetCode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -110,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/JishnuV2004/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/JishnuV2004/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
