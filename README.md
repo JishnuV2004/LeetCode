@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/JishnuV2004/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/JishnuV2004/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/JishnuV2004/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/JishnuV2004/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/JishnuV2004/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JishnuV2004/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3894-traffic-signal-color](https://github.com/JishnuV2004/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/JishnuV2004/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/JishnuV2004/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/JishnuV2004/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/JishnuV2004/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
