@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/JishnuV2004/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/JishnuV2004/LeetCode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/JishnuV2004/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/JishnuV2004/LeetCode/tree/main/2418-sort-the-people/) | Easy |
